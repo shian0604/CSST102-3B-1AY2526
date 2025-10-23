@@ -1,0 +1,13 @@
+﻿Fold 1: 0.7450
+Fold 2: 0.7700
+Fold 3: 0.7050
+Fold 4: 0.7050
+Fold 5: 0.7250
+--------------------------------------------------
+Mean CV accuracy: 0.7300
+Standard deviation: 0.0249
+
+
+
+
+Summary: The 5‑Fold Cross Validation results show that the model’s accuracy varied slightly across the folds, with scores ranging from 0.7050 to 0.7700. The highest performance was observed in Fold 2 at 0.7700, while the lowest occurred in Folds 3 and 4 at 0.7050. Despite these fluctuations, the model maintained a fairly consistent level of accuracy, as reflected in the mean cross‑validation accuracy of 0.7300. The relatively small standard deviation of 0.0249 further indicates that the model’s performance was stable across different subsets of the data, suggesting it generalizes reasonably well without being overly sensitive to how the data is split.
